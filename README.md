@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # myscroll
 
 > this is a demo of better-scroll
@@ -20,3 +21,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# myscroll
+使用better-scroll 封装成vue组件 实现上拉刷新，下拉到一定高度自动获取数据
+>>>>>>> f75a088dc548717744e9c77ad8541ebd19178c09
